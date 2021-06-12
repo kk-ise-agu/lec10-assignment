@@ -1,28 +1,16 @@
-# Exercise 9
+# Exercise 3
 
-This week we will create geometries, reproject data and do geometric calculations using Geopandas (+ Shapely and pyproj).
+This week we will practice geocoding, spatial joins and nearest neighbour analysis in Python. 
+
+In this exercise the goal is to **find out how many people live within 1.5 km (Euclidean) distance from big shopping centers in the Helsinki Region** (Problems 1-3). In addition, you will figure out the closes shopping center from your home and work locations (Problem 4). 
 
 
-- **Exercise 9 is due by 9am on the 14th of June 2021**.
+- **Exercise 10 is due by Thursday the 5th of July at 5 pm**.
 
-- Don't forget to check out the [hints for this week's exercise](https://autogis-site.readthedocs.io/en/latest/lessons/L2/exercise-2.html#hints)
 
 ## Sections
 
- - Problem 1: Create Polygon from lists of coordinates
- - Problem 2: Points to map
- - Problem 3: How long distance individuals have travelled? 
+ - Problem 1: Geocode shopping centers
+ - Problem 2: Create buffers around shopping centers
+ - Problem 3: How many people live near shopping centers?
  
-
-#### Solution code 
-Add your programs in the parts "YOUR CODE HERE *" 
-
-```
-# YOUR CODE HERE 1 .....
-```
-
-
- 
- 
- 
-  
