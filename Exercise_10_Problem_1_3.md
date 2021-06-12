@@ -248,4 +248,4 @@ print(pop.head(3))
 
 YOUR ANSWER HERE
 
-Well done! Now you can continue to [problem 4](Exercise-3-Problem-4.ipynb)
+Well done!
