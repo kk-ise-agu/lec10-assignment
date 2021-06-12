@@ -1,4 +1,4 @@
-# Exercise 3
+# Exercise 10
 
 This week we will practice geocoding, spatial joins and nearest neighbour analysis in Python. 
 
